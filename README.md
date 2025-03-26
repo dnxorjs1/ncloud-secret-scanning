@@ -1,1 +1,5 @@
 # ncloud-secret-scanning
+
+ncp_iam_BGASKR4ks4rveuFuEbeY
+
+ncp_iam_BGKSKRHfB5Qe7wxuOkblMV0Br7OMDRPRpO
